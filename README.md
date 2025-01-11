@@ -86,10 +86,9 @@ This assignment simulates a typical **Security Operations Center (SOC)** workflo
 2. **Threat Detection**: Reflects how alerts are generated and analyzed in enterprise environments.
 3. **Incident Response**: Models the process of escalating and resolving security incidents.
 
-By completing this assignment, you gain foundational skills in **network security**, **incident analysis**, and **response workflows**, which are essential for roles like **SOC Analyst**, **Cybersecurity Engineer**, or **Penetration Tester**.
 
 ---
 
 ## Documentation
 
-For detailed lab instructions, refer to the [Identifying and Analyzing NIDS/HIDS Alerts Project](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Identifying%20and%20Analyzing%20Network%20Host%20Intrusion%20Detection%20System%20NIDS%20HIDS%20Alerts%20copy.docx).
+For detailed lab instructions, refer to the [Identifying and Analyzing NIDS/HIDS Alerts](https://github.com/StephVergil/dentifying-and-Analyzing-NIDS-HIDS-Alerts/blob/main/Identifying%20and%20Analyzing%20Network%20Host%20Intrusion%20Detection%20System%20NIDS%20HIDS%20Alerts%20copy.docx)
